@@ -6,4 +6,6 @@ This is a over powered telegram spambot that can crack flooding security of rose
 # how to use -
 Add both bots (tgspambot01 & tgspambot02) in the group in which you want to spam and send hi or hello.
 
-# THIS IS ONLY FOR EDUCATIONAL PURPOSE ONLY. I WILL NOT BE RESPONSIBLE FOR ANY MISUSE OF THESE BOTS.
+#PURPOSE
+This is for educational purpose only. I will not be responsible for any misuse of these bots.
+
